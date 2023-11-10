@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:local="clr-namespace:Ödev3"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Ödev3.MainPage">
+
+    <StackLayout BackgroundColor="#337782" >
+
+        <Button Text="Hesapla ve Döndür"
+                          Command="{Binding NavigateCommand}"
+                          CommandParameter="{x:Type local:HesapPage}" BackgroundColor="#1E464C" BorderColor="#000000" BorderWidth="2" Margin="0,45,0,0" CornerRadius="50" TextColor="#FFFFFF" FontFamily="BlackOps" />
+
+        <Button Text="Anket"
+           Command="{Binding NavigateCommand}"
+           CommandParameter="{x:Type local:AnketPage}" BackgroundColor="#1E464C" BorderColor="#000000" BorderWidth="2" Margin="0,45,0,0" CornerRadius="50" TextColor="#FFFFFF" FontFamily="BlackOps" />
+
+    </StackLayout>
+
+</ContentPage>

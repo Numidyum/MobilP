@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Ödev3"
+             x:Class="Ödev3.HesapPage">
+
+    <ContentPage.BindingContext>
+        <local:CommandDemoViewModel />
+    </ContentPage.BindingContext>
+
+    <StackLayout BackgroundColor="#337782">
+        <Label x:Name="label"
+               Text="{Binding Number, StringFormat='Şimdiki değer: {0}'}"
+               VerticalOptions="CenterAndExpand" 
+               FontFamily="BlackOps" FontSize="30" HorizontalTextAlignment="Center" TextColor="black"/>
+
+        <Button Text="5 Ekle"
+                VerticalOptions="CenterAndExpand"
+                HorizontalOptions="Center"
+                Command="{Binding MultiplyBy2Command}" BackgroundColor="#1E464C" BorderColor="#000000" BorderWidth="2" Margin="0,45,0,0" CornerRadius="50" TextColor="#FFFFFF" FontFamily="BlackOps" />
+
+        <Button Text="10 Çıkart"
+                VerticalOptions="CenterAndExpand"
+                HorizontalOptions="Center"
+                Command="{Binding DivideBy2Command}" BackgroundColor="#1E464C" BorderColor="#000000" BorderWidth="2" Margin="0,45,0,0" CornerRadius="50" TextColor="#FFFFFF" FontFamily="BlackOps" />
+
+        <Button Text="Döndürmek için tıkla"
+        VerticalOptions="CenterAndExpand"
+        HorizontalOptions="Center"
+        Clicked="OnButtonClicked" BackgroundColor="#1E464C" BorderColor="#000000" BorderWidth="2" Margin="0,45,0,0" CornerRadius="50" TextColor="#FFFFFF" FontFamily="BlackOps" />
+    </StackLayout>
+</ContentPage>

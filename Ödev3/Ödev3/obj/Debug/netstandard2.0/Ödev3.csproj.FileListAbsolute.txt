@@ -1,0 +1,17 @@
+C:\Users\Numidium\source\repos\Ödev3\Ödev3\Ödev3\bin\Debug\netstandard2.0\Ödev3.deps.json
+C:\Users\Numidium\source\repos\Ödev3\Ödev3\Ödev3\bin\Debug\netstandard2.0\Ödev3.dll
+C:\Users\Numidium\source\repos\Ödev3\Ödev3\Ödev3\bin\Debug\netstandard2.0\ref\Ödev3.dll
+C:\Users\Numidium\source\repos\Ödev3\Ödev3\Ödev3\bin\Debug\netstandard2.0\Ödev3.pdb
+C:\Users\Numidium\source\repos\Ödev3\Ödev3\Ödev3\obj\Debug\netstandard2.0\Ödev3.csproj.AssemblyReference.cache
+C:\Users\Numidium\source\repos\Ödev3\Ödev3\Ödev3\obj\Debug\netstandard2.0\Ödev3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Numidium\source\repos\Ödev3\Ödev3\Ödev3\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Numidium\source\repos\Ödev3\Ödev3\Ödev3\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Numidium\source\repos\Ödev3\Ödev3\Ödev3\obj\Debug\netstandard2.0\Ödev3.AssemblyInfoInputs.cache
+C:\Users\Numidium\source\repos\Ödev3\Ödev3\Ödev3\obj\Debug\netstandard2.0\Ödev3.AssemblyInfo.cs
+C:\Users\Numidium\source\repos\Ödev3\Ödev3\Ödev3\obj\Debug\netstandard2.0\Ödev3.csproj.CoreCompileInputs.cache
+C:\Users\Numidium\source\repos\Ödev3\Ödev3\Ödev3\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Numidium\source\repos\Ödev3\Ödev3\Ödev3\obj\Debug\netstandard2.0\Ödev3.dll
+C:\Users\Numidium\source\repos\Ödev3\Ödev3\Ödev3\obj\Debug\netstandard2.0\refint\Ödev3.dll
+C:\Users\Numidium\source\repos\Ödev3\Ödev3\Ödev3\obj\Debug\netstandard2.0\Ödev3.pdb
+C:\Users\Numidium\source\repos\Ödev3\Ödev3\Ödev3\obj\Debug\netstandard2.0\HesapPage.xaml.g.cs
+C:\Users\Numidium\source\repos\Ödev3\Ödev3\Ödev3\obj\Debug\netstandard2.0\AnketPage.xaml.g.cs
